@@ -1,4 +1,4 @@
-Projeto Base React
+wa-orders
 ==================
 
 Utilize o VSCode, já está configurado com sugestão de extensões.
